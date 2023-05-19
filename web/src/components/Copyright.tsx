@@ -4,9 +4,9 @@ export function Copyright() {
       Feito com 💜 no NLW da{' '}
       <a
         target="_blank"
-        className="underline hover:text-gray-100"
-        href="https://www.rocketseat.com.br/"
         rel="noreferrer"
+        className="underline hover:text-gray-100"
+        href="https://rocketseat.com.br"
       >
         Rocketseat
       </a>
